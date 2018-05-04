@@ -1,3 +1,3 @@
-/cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles/uthreads_ex2.dir
+/cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles/uthreads_ex2.dir

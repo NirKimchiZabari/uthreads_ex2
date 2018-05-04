@@ -43,10 +43,10 @@ RM = /usr/local/jetbrains/clion-2017.2.2/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cs/usr/nir.zabari/safe/OS/uthreads_ex2
+CMAKE_SOURCE_DIR = /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug
+CMAKE_BINARY_DIR = /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/uthreads_ex2.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/uthreads_ex2.dir/flags.make
 
 CMakeFiles/uthreads_ex2.dir/main.cpp.o: CMakeFiles/uthreads_ex2.dir/flags.make
 CMakeFiles/uthreads_ex2.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uthreads_ex2.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uthreads_ex2.dir/main.cpp.o -c /cs/usr/nir.zabari/safe/OS/uthreads_ex2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uthreads_ex2.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uthreads_ex2.dir/main.cpp.o -c /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/main.cpp
 
 CMakeFiles/uthreads_ex2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uthreads_ex2.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cs/usr/nir.zabari/safe/OS/uthreads_ex2/main.cpp > CMakeFiles/uthreads_ex2.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/main.cpp > CMakeFiles/uthreads_ex2.dir/main.cpp.i
 
 CMakeFiles/uthreads_ex2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uthreads_ex2.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cs/usr/nir.zabari/safe/OS/uthreads_ex2/main.cpp -o CMakeFiles/uthreads_ex2.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/main.cpp -o CMakeFiles/uthreads_ex2.dir/main.cpp.s
 
 CMakeFiles/uthreads_ex2.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/uthreads_ex2.dir/main.cpp.o.provides.build: CMakeFiles/uthreads_ex2.d
 
 CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o: CMakeFiles/uthreads_ex2.dir/flags.make
 CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o: ../uthreads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o -c /cs/usr/nir.zabari/safe/OS/uthreads_ex2/uthreads.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o -c /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/uthreads.cpp
 
 CMakeFiles/uthreads_ex2.dir/uthreads.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uthreads_ex2.dir/uthreads.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cs/usr/nir.zabari/safe/OS/uthreads_ex2/uthreads.cpp > CMakeFiles/uthreads_ex2.dir/uthreads.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/uthreads.cpp > CMakeFiles/uthreads_ex2.dir/uthreads.cpp.i
 
 CMakeFiles/uthreads_ex2.dir/uthreads.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uthreads_ex2.dir/uthreads.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cs/usr/nir.zabari/safe/OS/uthreads_ex2/uthreads.cpp -o CMakeFiles/uthreads_ex2.dir/uthreads.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/uthreads.cpp -o CMakeFiles/uthreads_ex2.dir/uthreads.cpp.s
 
 CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o.requires:
 
@@ -117,7 +117,7 @@ uthreads_ex2: CMakeFiles/uthreads_ex2.dir/main.cpp.o
 uthreads_ex2: CMakeFiles/uthreads_ex2.dir/uthreads.cpp.o
 uthreads_ex2: CMakeFiles/uthreads_ex2.dir/build.make
 uthreads_ex2: CMakeFiles/uthreads_ex2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable uthreads_ex2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable uthreads_ex2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/uthreads_ex2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/uthreads_ex2.dir/clean:
 .PHONY : CMakeFiles/uthreads_ex2.dir/clean
 
 CMakeFiles/uthreads_ex2.dir/depend:
-	cd /cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cs/usr/nir.zabari/safe/OS/uthreads_ex2 /cs/usr/nir.zabari/safe/OS/uthreads_ex2 /cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug /cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug /cs/usr/nir.zabari/safe/OS/uthreads_ex2/cmake-build-debug/CMakeFiles/uthreads_ex2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2 /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2 /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug /cs/usr/levymsn/Desktop/OS/Ex2/uthreads/uthreads_ex2/cmake-build-debug/CMakeFiles/uthreads_ex2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uthreads_ex2.dir/depend
 
